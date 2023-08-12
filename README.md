@@ -1,5 +1,5 @@
 # Git For Geeks Second Commit 🚀
-The website is made for DJCSI's Git For Geeks Second Commit workshop to demonstrate Github Workflow.
+The website is made for DJCSI's Git For Geeks Second Commit workshop to demonstrate Github Workflow. yes yess! very much
 ## Tech Stack 💻
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
